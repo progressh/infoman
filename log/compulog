@@ -1,0 +1,4 @@
+  185  python3.6m server.py
+  186  PYTHONENCODING=utf-8 python3.6m server.py
+  187  vi /usr/lib/python3.6/urllib/parse.py
+
