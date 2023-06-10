@@ -1,4 +1,7 @@
 # Setup development environment
 1. Download and install Visual Studio Code for x64 
 2. Open Visual Studio Code and click "source control" and following the hints to install git and clone this repository.
-3. Click Explorer to add a new .py file and following the hint to install python. 
+3. Click Explorer to add a new .py file and following the hint to install python extention(not sure it is needed). 
+4. Read https://code.visualstudio.com/docs/python/python-tutorial, In View->Command Pallete->run "Python: Create Environment" to create a .Venv whose files you can view under explorer. After run "Python: Select Environment" to select the venv, you can run in the Terminal "python -m pip install yahoofinancials".
+6. Open src/util.py and Run. There is error message about running Activate.ps1 and prompt you to run  "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUsery"
+7. After run, the script will print following information about a stock: ticker, open_price, day_high, day_low, bid_or_ask price (if 
