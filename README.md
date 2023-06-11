@@ -5,3 +5,4 @@
 4. Read https://code.visualstudio.com/docs/python/python-tutorial, In View->Command Pallete->run "Python: Create Environment" to create a .Venv whose files you can view under explorer. After run "Python: Select Environment" to select the venv, you can run in the Terminal "python -m pip install yahoofinancials".
 6. Open src/util.py and Run. There is error message about running Activate.ps1 and prompt you to run  "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUsery"
 7. After run, the script will print information to out.html in current directory. Click the file to view it in browser
+8. Run git config --global user.email and git config --global user.name in command window to finish setup git, then you can commit the files. (tip: there is a check mark button for the commit message)
