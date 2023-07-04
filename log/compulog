@@ -2,3 +2,18 @@
   186  PYTHONENCODING=utf-8 python3.6m server.py
   187  vi /usr/lib/python3.6/urllib/parse.py
 
+test
+yahoofinance
+git config --global user.email "ly@example.com"
+git config --global user.name "Your Name"
+
+  github/infoman
+
+{
+  opencv
+  .venv pyvenv.cfg include-system-site-packages = true 
+}
+{vs code:
+  change ident spaces: bottom spaces
+  indent: select lines, ctrl+
+}
